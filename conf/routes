@@ -1,2 +1,2 @@
-# URLに対する処理(メソッド)の割当を行っている設定ファイルです。
+# URLに対する処理(関数(メソッド))の割当を行っている設定ファイルです。
 GET        /        controllers.SampleController.index()
